@@ -37,7 +37,7 @@ class prac10{
 		
 	}
 	public static void main(String[] args){
-		//revstr();	
+		revstr();	
 		//facto();
 		//charCount();
 		//upperlower();
